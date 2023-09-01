@@ -1,1 +1,1 @@
-# the-artbox
+# The-Artbox
